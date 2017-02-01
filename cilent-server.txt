@@ -1,0 +1,9 @@
+Şəbəkə hazırlanması hamsı əlaqə və məlumat mübadiləsidir. Bu əlaqə HTTP protokolu üzərindən iki hissə vasitəsilə baş verir.
+Client və server
+Client side
+Client serverdən səhifənin məlumatlarını teleb edərək istifadəçiyə göstərir. Ümumilikdə Client veb brauzeridir. Veb səhifəni əlaqəli edir, işi dinamikləşdirir, müvəqqəti yaddaşla qarşılıqlı hərəkət edir, Istifadəçi və server arasında interfeys kimi işləyir, serverə təkliflər göndərir, serverdən məlumat axtarışı, client server proqramı üçün əlaqənin düzəlməsinin təmin edir.
+Çoxlu Clent-side kodlaşdırma dilləri də vardır. Misal olaraq HTML, CSS, JavaScript, Jquery və s.
+Server side
+Server müştəri və istifadəçidən aslılı olaraq veb səhifələrdən məhsuliyyət daşıyır. Bu hem statik ola bilər, həm de dinamik.  
+İstifadəçi girişini emal edir, təklif olunan səhifələri göstərir, veb proqramları qurur, verilənlərlə qarşılıqlı əlaqə, verilənlərə sual işarəsi qoyur, verilənlər üzərindən əməliyyatlar edir  delete, update. server-side programming üçün istifadə edilə biləcək bir neçə dil var: ASP.NET (C# OR Visual Basic), PHP, C++, Python, Ruby, Java.
+Client side və server side dillər arasında əsas fərqə gəldikdə, client side ön tərəfdə işləyir yəni görünən, server side isə arxada yəni görünməyən tərəfdə işləyir.
